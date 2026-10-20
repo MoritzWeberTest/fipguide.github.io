@@ -1,14 +1,13 @@
 ---
 date: 2026-03-09
-draft: false
-title: "Tschechien: Weitere FIP-Einschränkungen der ČD"
-description: Die České dráhy (ČD) hat die Einschränkungen für die FIP Nutzung in
-  Tschechien ausgeweitet. Neue Regionen, höhere Aufschläge und mehr betroffene
-  Zugkategorien.
+title: 'Tschechien: Weitere FIP-Einschränkungen der ČD'
+description: Die České dráhy (ČD) hat die Einschränkungen für die FIP Nutzung in Tschechien ausgeweitet. Neue Regionen, höhere Aufschläge und mehr betroffene Zugkategorien.
 country:
   - czechia
 operator:
   - cd
+content_images:
+  - image.webp
 ---
 
 In Tschechien hat die České dráhy (ČD) die Bedingungen für die Nutzung von FIP Vergünstigungen weiter eingeschränkt. Hintergrund sind neue öffentliche Ausschreibungen und ein zunehmender Konkurrenzdruck durch private Anbieter wie Leo Express und Regiojet.
