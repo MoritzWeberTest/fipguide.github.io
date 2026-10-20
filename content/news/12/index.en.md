@@ -16,4 +16,6 @@ If you need help with editing, you can contact us at any time by email or via th
 The CMS has been adjusted and now also supports editing the tables on the "FIP Application" page. In addition, the design has changed slightly, the CMS now also works on mobile devices, and it will receive further updates in the future.
 {{% /update %}}
 
-![FIP Guide online editor](editor.webp)
+![FIP Guide online editor
+
+test](editor.webp)
