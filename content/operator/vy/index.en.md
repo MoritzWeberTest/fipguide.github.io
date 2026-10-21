@@ -47,7 +47,7 @@ However, only **Vy Group AS** is printed on the FIP Card and the FIP Coupons.
     reservation_possible=true
 %}}
 
-Long-distance trains on the country’s main lines with café. Some trains operate as night trains with seat, couchette and sleeping cars. In the journey planner on [Entur](https://entur.no/), the night trains are marked with a crescent moon {{% icon "bedtime" %}}.
+Long-distance trains on the country’s main lines with café. Some trains operate as night trains with seat, couchette and sleeping cars. In the journey planner on [Entur](https://entur.no/), the night trains are marked with a crescent moon {{< icon "bedtime" >}}.
 
 #### Scheduled routes
 
@@ -68,12 +68,12 @@ Long-distance trains on the country’s main lines with café. Some trains opera
 
 Reservations are compulsory on lines F4, F5, F6 and F7:
 
-| Class                                                                                      | FIP Card 2nd class                               | FIP Card 1st class |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------ |
-| Standard                                                                                   | 50 kr (F5, F6, F7) <br> 90 kr (F4)               | 0 kr               |
-| Plus                                                                                       | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4)    | 0 kr               |
-| PlusNight {{< icon "bedtime" >}}                                                           | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr               |
-| Sleeper {{< icon "bedtime" >}} <br><small>The reservation is valid for two people.</small> | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr               |
+| Class | FIP Card 2nd class | FIP Card 1st class |
+| --- | --- | --- |
+| Standard | 50 kr (F5, F6, F7) <br> 90 kr (F4) | 0 kr |
+| Plus | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4) | 0 kr |
+| PlusNight {{< icon "bedtime" >}} | 500 kr (F5, F6) <br> 680 kr (F4) | 0 kr |
+| Sleeper {{< icon "bedtime" >}} <br><small>The reservation is valid for two people.</small> | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4)\n\ntest | 0 kr |
 
 {{< highlight tip >}}
 **Night train: stay, shower and breakfast**
@@ -256,6 +256,7 @@ For reservations in seat, couchette or sleeper cars, a reservation fee must be p
 ### On-Site
 
 {{% booking id="entur-ticket-office" /%}}
+
 {{% booking id="db-ticket-office" /%}}
 
 FIP Discounts cannot be purchased from ticket machines.
@@ -268,11 +269,11 @@ FIP Discounts cannot be purchased on the train.
 
 {{< children-discount >}}
 
-| Age                                  | Discount                                                  |
-| ------------------------------------ | --------------------------------------------------------- |
-| {{< icon "child_care" >}} 0–5 years  | Free of charge[^2]                                        |
+| Age | Discount |
+| --- | --- |
+| {{< icon "child_care" >}} 0–5 years | Free of charge[^2] |
 | {{< icon "child_care" >}} 6–17 years | 75% discount on Single ticket and Flex Refundable[^2][^4] |
-| {{< icon "person" >}} from 18 years  | Regular price[^2]                                         |
+| {{< icon "person" >}} from 18 years | Regular price[^2] |
 
 {{% highlight tip %}}
 The 75% discount for children from 6 through 17 years old on Single ticket and Flex Refundable makes it cheaper than the FIP fare for children.
