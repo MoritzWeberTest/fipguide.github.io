@@ -47,7 +47,7 @@ Auf dem FIP Ausweis und den FIP Freifahrtscheinen ist allerdings nur **Vy Group 
     reservation_possible=true
 %}}
 
-Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond {{% icon "bedtime" %}} gekennzeichnet.
+Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond {{< icon "bedtime" >}} gekennzeichnet.
 
 #### Strecken im Linienverkehr
 
@@ -68,12 +68,12 @@ Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge
 
 Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich:
 
-| Klasse                                                                                       | FIP Ausweis 2. Klasse                            | FIP Ausweis 1. Klasse |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------- |
-| Standard                                                                                     | 50 kr (F5, F6, F7) <br> 90 kr (F4)               | 0 kr                  |
-| Plus                                                                                         | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4)    | 0 kr                  |
-| PlusNight {{< icon "bedtime" >}}                                                             | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                  |
-| Sleeper {{< icon "bedtime" >}} <br><small>Reservierung ist für zwei Personen gültig.</small> | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                  |
+| Klasse | FIP Ausweis 2. Klasse | FIP Ausweis 1. Klasse |
+| --- | --- | --- |
+| Standard | 50 kr (F5, F6, F7) <br> 90 kr (F4) | 0 kr |
+| Plus | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4) | 0 kr |
+| PlusNight {{< icon "bedtime" >}} | 500 kr (F5, F6) <br> 680 kr (F4) | 0 kr |
+| Sleeper {{< icon "bedtime" >}} <br><small>Reservierung ist für zwei Personen gültig.</small> | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4)\n\ntest4 | 0 kr |
 
 {{< highlight tip >}}
 **Nachtzug: Aufenthalt, Dusche und Früstück**
@@ -256,6 +256,7 @@ Für die Reservierung im Sitz-, Liege- oder Schlafwagen ist unabhängig von der 
 ### Vor Ort
 
 {{% booking id="entur-ticket-office" /%}}
+
 {{% booking id="db-ticket-office" /%}}
 
 An Ticketautomaten können FIP Vergünstigungen nicht erworben werden.
@@ -268,11 +269,11 @@ Im Zug können FIP Vergünstigungen nicht erworben werden.
 
 {{< children-discount >}}
 
-| Alter                                | Ermäßigung                                                   |
-| ------------------------------------ | ------------------------------------------------------------ |
-| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos[^2]                                                |
+| Alter | Ermäßigung |
+| --- | --- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^2] |
 | {{< icon "child_care" >}} 6–17 Jahre | 75% Ermäßigung auf Single Ticket und Flex Refundable[^2][^4] |
-| {{< icon "person" >}} ab 18 Jahre    | Regulärer Preis[^2]                                          |
+| {{< icon "person" >}} ab 18 Jahre | Regulärer Preis[^2] |
 
 {{% highlight tip %}}
 Die 75% Ermäßigung für Kinder von 6 bis einschließlich 17 Jahre auf Single Ticket und Flex Refundable ist günstiger als der FIP-Tarif für Kinder.
